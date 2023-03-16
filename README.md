@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevOps CI/CD**
 
-- 🌱 I’m currently learning **Cloud, SDLC, DevOps Tools, Ansible, K8s, Terraform, Grafana**
+- 🌱 I’m currently learning **Cloud, SDLC, DevOps Tools, Jenkins, Docker, Ansible, K8s, Terraform, Grafana**
 
 - 👯 I’m looking to collaborate on **DevOps implementation**
 
