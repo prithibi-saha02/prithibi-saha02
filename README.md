@@ -3,8 +3,6 @@
 
 <img align="right" alt="devops" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7YxNtlsWNS9pwO63HXOtylVjmmRpZIeyx4mkJSN4tejQepQnh3Ujr4AJ0jk6gvbcHwc&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithibi-saha02&label=Profile%20views&color=0e75b6&style=flat" alt="prithibi-saha02" /> </p>
-
 - 🔭 I’m currently working on **DevOps CI/CD**
 
 - 🌱 I’m currently learning **Cloud, SDLC, DevOps Tools, Jenkins, Docker, Ansible, K8s, Terraform, Grafana**
@@ -32,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithibi-saha02&" alt="prithibi-saha02" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithibi-saha02&label=Profile%20views&color=0e75b6&style=flat" alt="prithibi-saha02" /> </p>
