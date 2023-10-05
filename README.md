@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithibi Saha</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer | Blogger | Tech-Explorer | Self-Study Oriented</h3>
+<h3 align="center"> DevOps Trainee @ SparkTG | Blogger | Tech-Explorer | Self-Study Oriented</h3>
 
 <img align="right" alt="devops" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7YxNtlsWNS9pwO63HXOtylVjmmRpZIeyx4mkJSN4tejQepQnh3Ujr4AJ0jk6gvbcHwc&usqp=CAU">
 
