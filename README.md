@@ -3,9 +3,9 @@
 
 <img align="right" alt="devops" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7YxNtlsWNS9pwO63HXOtylVjmmRpZIeyx4mkJSN4tejQepQnh3Ujr4AJ0jk6gvbcHwc&usqp=CAU">
 
-- 🔭 I’m currently working on **DevOps CI/CD**
+- 🔭 I’m currently working as **DevOps Trainee**
 
-- 🌱 I’m currently learning **Cloud, SDLC, DevOps Tools, Jenkins, Docker, Ansible, K8s, Terraform, Grafana**
+- 🌱 I’m currently learning **Cloud, ELK, Kibana, ElasticSearch, Logstash**
 
 - 👯 I’m looking to collaborate on **DevOps implementation**
 
