@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prithibi Saha</h1>
-<h3 align="center"> DevOps Trainee @ SparkTG | Blogger | Tech-Explorer | Self-Study Oriented</h3>
+<h3 align="center"> DevOps Engineer @ SparkTG </h3>
 
 <img align="right" alt="devops" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb7YxNtlsWNS9pwO63HXOtylVjmmRpZIeyx4mkJSN4tejQepQnh3Ujr4AJ0jk6gvbcHwc&usqp=CAU">
 
-- 🔭 I’m currently working as **DevOps Trainee**
+- 🔭 I’m currently working as **DevOps Engineer**
 
 - 🌱 I’m currently learning **Cloud, ELK, Kibana, ElasticSearch, Logstash**
 
 - 👯 I’m looking to collaborate on **DevOps implementation**
 
-- 🤝 I’m looking for help with **DevOps Practices & Projects**
+- 🤝 I’m looking for help with **DevOps Process & Projects**
 
 - 📝 I regularly write articles on [https://techopsprith.hashnode.dev/](https://techopsprith.hashnode.dev/)
 
