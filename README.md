@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently working as **DevOps Engineer**
 
-- 🌱 I’m currently learning **Cloud, ELK, Kibana, ElasticSearch, Logstash**
-
-- 👯 I’m looking to collaborate on **DevOps implementation**
-
-- 🤝 I’m looking for help with **DevOps Process & Projects**
-
-- 📝 I regularly write articles on [https://techopsprith.hashnode.dev/](https://techopsprith.hashnode.dev/)
+- 👯 I’m looking to collaborate on **DevOps Implementation**
 
 - 💬 Ask me about **DevOps , Cloud , IT , Infrastructure Development models**
 
